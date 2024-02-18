@@ -10,5 +10,7 @@ A tool that helps to organize your day. It simply lists the things that you need
 - **Changing of text color once it is marked**
 - **Saving the tast on local storage so that the tasks are dispalyed when website is revisited/reloaded**
 
+[Visit Website Here](https://raj-ritik.github.io/ToDoList-Web_app/)
+
 # Demo
 ![demo](./images/demo.png)
