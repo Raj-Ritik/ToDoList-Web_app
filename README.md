@@ -11,4 +11,4 @@ A tool that helps to organize your day. It simply lists the things that you need
 - **Saving the tast on local storage so that the tasks are dispalyed when website is revisited/reloaded**
 
 # Demo
-![demo]()
+![demo](./images/demo.png)
